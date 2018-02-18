@@ -2,16 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2071c2ba-8d98-4588-a8fb-2b48aa9f721b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/test.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Dockerfile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dockiql.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/dockiql.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/dockiql.css" afterPath="$PROJECT_DIR$/public/dockiql.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/index.html" afterPath="$PROJECT_DIR$/public/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,9 +21,11 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="187">
-                <caret line="11" column="60" lean-forward="false" selection-start-line="11" selection-start-column="60" selection-end-line="11" selection-end-column="60" />
-                <folding />
+              <first_editor relative-caret-position="1050">
+                <caret line="63" column="40" lean-forward="false" selection-start-line="63" selection-start-column="40" selection-end-line="63" selection-end-column="40" />
+                <folding>
+                  <marker date="1518991815062" expanded="true" signature="852:1049" ph="..." />
+                </folding>
               </first_editor>
               <second_editor />
             </state>
@@ -48,9 +45,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/public/index.html" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/public/dockiql.css" />
+        <option value="$PROJECT_DIR$/public/index.html" />
+        <option value="$PROJECT_DIR$/public/dockiql.js" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -227,12 +225,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1518900800214</updated>
-      <workItem from="1518900801807" duration="4047000" />
+      <workItem from="1518900801807" duration="17396000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4047000" />
+    <option name="totallyTimeSpent" value="17396000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
@@ -278,57 +276,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/public/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="731">
-          <caret line="43" column="46" lean-forward="false" selection-start-line="43" selection-start-column="46" selection-end-line="43" selection-end-column="46" />
-          <folding>
-            <marker date="1518904300635" expanded="true" signature="4:190" ph="..." />
-            <marker date="1518904300635" expanded="true" signature="215:6966" ph="..." />
-            <marker date="1518904300635" expanded="true" signature="222:1575" ph="..." />
-            <marker date="1518904300635" expanded="true" signature="234:437" ph="..." />
-            <marker date="1518904300635" expanded="true" signature="249:364" ph="{...}" />
-            <marker date="1518904300635" expanded="true" signature="384:422" ph="{...}" />
-            <marker date="1518904300635" expanded="true" signature="448:785" ph="..." />
-            <marker date="1518904300635" expanded="true" signature="1109:1305" ph="..." />
-            <marker date="1518904300635" expanded="true" signature="1582:6958" ph="..." />
-            <marker date="1518904300635" expanded="true" signature="1627:6950" ph="..." />
-            <marker date="1518904300635" expanded="true" signature="1634:1993" ph="/** This GraphiQL example illustrates how to use some of GraphiQL's props ...*/" />
-            <marker date="1518904300635" expanded="true" signature="2176:2375" ph="{...}" />
-            <marker date="1518904300635" expanded="true" signature="2236:2369" ph="{...}" />
-            <marker date="1518904300635" expanded="true" signature="2461:2745" ph="{...}" />
-            <marker date="1518904300635" expanded="true" signature="2475:2596" ph="{...}" />
-            <marker date="1518904300635" expanded="true" signature="2607:2739" ph="{...}" />
-            <marker date="1518904300635" expanded="true" signature="2621:2729" ph="//..." />
-            <marker date="1518904300635" expanded="true" signature="2751:2858" ph="//..." />
-            <marker date="1518904300635" expanded="true" signature="2894:2959" ph="{...}" />
-            <marker date="1518904300635" expanded="true" signature="3004:3077" ph="{...}" />
-            <marker date="1518904300635" expanded="true" signature="3130:3211" ph="{...}" />
-            <marker date="1518904300635" expanded="true" signature="3238:3579" ph="{...}" />
-            <marker date="1518904300635" expanded="true" signature="3316:3372" ph="{...}" />
-            <marker date="1518904300635" expanded="true" signature="3393:3508" ph="{...}" />
-            <marker date="1518904300635" expanded="true" signature="3585:3790" ph="//..." />
-            <marker date="1518904300635" expanded="true" signature="3829:4664" ph="{...}" />
-            <marker date="1518904300635" expanded="true" signature="3871:4658" ph="{...}" />
-            <marker date="1518904300635" expanded="true" signature="3885:4022" ph="//..." />
-            <marker date="1518904300635" expanded="true" signature="4058:4350" ph="{&quot;method&quot;: 'post'...}" />
-            <marker date="1518904300635" expanded="true" signature="4117:4242" ph="{&quot;Accept&quot;: 'application/json'...}" />
-            <marker date="1518904300635" expanded="true" signature="4377:4432" ph="{...}" />
-            <marker date="1518904300635" expanded="true" signature="4463:4646" ph="{...}" />
-            <marker date="1518904300635" expanded="true" signature="4485:4557" ph="{...}" />
-            <marker date="1518904300635" expanded="true" signature="4572:4632" ph="{...}" />
-            <marker date="1518904300635" expanded="true" signature="4718:6530" ph="{...}" />
-            <marker date="1518904300635" expanded="true" signature="4748:5039" ph="{...}" />
-            <marker date="1518904300635" expanded="true" signature="4801:4903" ph="{...}" />
-            <marker date="1518904300635" expanded="true" signature="5063:5223" ph="{...}" />
-            <marker date="1518904300635" expanded="true" signature="5251:5310" ph="{...}" />
-            <marker date="1518904300635" expanded="true" signature="5329:6523" ph="{...}" />
-            <marker date="1518904300635" expanded="true" signature="6032:6481" ph="{&quot;query&quot;: parameters.query...}" />
-            <marker date="1518904300635" expanded="true" signature="6536:6752" ph="//..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -339,16 +286,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/dockiql.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1518904631063" expanded="true" signature="98:145" ph="{...}" />
-            <marker date="1518904631063" expanded="true" signature="152:199" ph="{...}" />
-            <marker date="1518904631063" expanded="true" signature="214:298" ph="{...}" />
-            <marker date="1518904631063" expanded="true" signature="309:427" ph="{...}" />
-            <marker date="1518904631063" expanded="true" signature="456:521" ph="{...}" />
-            <marker date="1518904631063" expanded="true" signature="532:691" ph="{...}" />
-            <marker date="1518904631063" expanded="true" signature="710:734" ph="{...}" />
+            <marker date="1518944580863" expanded="true" signature="5:52" ph="{...}" />
+            <marker date="1518944580863" expanded="true" signature="59:134" ph="{...}" />
+            <marker date="1518944580863" expanded="true" signature="146:168" ph="{...}" />
+            <marker date="1518944580863" expanded="true" signature="275:359" ph="{...}" />
+            <marker date="1518944580863" expanded="true" signature="370:488" ph="{...}" />
+            <marker date="1518944580863" expanded="true" signature="517:582" ph="{...}" />
+            <marker date="1518944580863" expanded="true" signature="593:752" ph="{...}" />
+            <marker date="1518944580863" expanded="true" signature="771:795" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="18" lean-forward="false" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+          <folding>
+            <marker date="1518944810110" expanded="true" signature="21:1123" ph="..." />
+            <marker date="1518944810110" expanded="true" signature="28:1004" ph="..." />
+            <marker date="1518944810110" expanded="true" signature="40:377" ph="..." />
+            <marker date="1518944810110" expanded="true" signature="1011:1115" ph="..." />
           </folding>
         </state>
       </provider>
@@ -361,12 +322,57 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/public/dockiql.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="73" column="34" lean-forward="false" selection-start-line="73" selection-start-column="34" selection-end-line="73" selection-end-column="34" />
+          <folding>
+            <marker date="1518991472536" expanded="true" signature="0:331" ph="/** This GraphiQL example illustrates how to use some of GraphiQL's props ...*/" />
+            <marker date="1518991472536" expanded="true" signature="498:673" ph="{...}" />
+            <marker date="1518991472536" expanded="true" signature="550:671" ph="{...}" />
+            <marker date="1518991472536" expanded="true" signature="751:1003" ph="{...}" />
+            <marker date="1518991472536" expanded="true" signature="761:870" ph="{...}" />
+            <marker date="1518991472536" expanded="true" signature="881:1001" ph="{...}" />
+            <marker date="1518991472536" expanded="true" signature="891:995" ph="//..." />
+            <marker date="1518991472536" expanded="true" signature="1005:1108" ph="//..." />
+            <marker date="1518991472536" expanded="true" signature="1140:1193" ph="{...}" />
+            <marker date="1518991472536" expanded="true" signature="1234:1295" ph="{...}" />
+            <marker date="1518991472536" expanded="true" signature="1344:1413" ph="{...}" />
+            <marker date="1518991472536" expanded="true" signature="1436:1745" ph="{...}" />
+            <marker date="1518991472536" expanded="true" signature="1510:1558" ph="{...}" />
+            <marker date="1518991472536" expanded="true" signature="1579:1682" ph="{...}" />
+            <marker date="1518991472536" expanded="true" signature="1747:1944" ph="//..." />
+            <marker date="1518991472536" expanded="true" signature="1979:2868" ph="{...}" />
+            <marker date="1518991472536" expanded="true" signature="2017:2865" ph="{...}" />
+            <marker date="1518991472536" expanded="true" signature="2027:2160" ph="//..." />
+            <marker date="1518991472536" expanded="true" signature="2192:2450" ph="{&quot;method&quot;: 'post'...}" />
+            <marker date="1518991472536" expanded="true" signature="2243:2355" ph="{&quot;Accept&quot;: 'application/json'...}" />
+            <marker date="1518991472536" expanded="true" signature="2477:2525" ph="{...}" />
+            <marker date="1518991472536" expanded="true" signature="2545:2667" ph="{...}" />
+            <marker date="1518991472536" expanded="true" signature="2698:2857" ph="{...}" />
+            <marker date="1518991472536" expanded="true" signature="2716:2780" ph="{...}" />
+            <marker date="1518991472536" expanded="true" signature="2795:2847" ph="{...}" />
+            <marker date="1518991472536" expanded="true" signature="2918:4718" ph="{...}" />
+            <marker date="1518991472536" expanded="true" signature="2944:3393" ph="{...}" />
+            <marker date="1518991472536" expanded="true" signature="3134:3193" ph="{...}" />
+            <marker date="1518991472536" expanded="true" signature="3215:3266" ph="{&quot;currEndpoint&quot;: endpointValue...}" />
+            <marker date="1518991472536" expanded="true" signature="3418:3539" ph="{...}" />
+            <marker date="1518991472536" expanded="true" signature="3563:3625" ph="{...}" />
+            <marker date="1518991472536" expanded="true" signature="3640:4715" ph="{...}" />
+            <marker date="1518991472536" expanded="true" signature="4276:4685" ph="{&quot;query&quot;: parameters.query...}" />
+            <marker date="1518991472536" expanded="true" signature="4720:4924" ph="//..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="187">
-            <caret line="11" column="60" lean-forward="false" selection-start-line="11" selection-start-column="60" selection-end-line="11" selection-end-column="60" />
-            <folding />
+          <first_editor relative-caret-position="1050">
+            <caret line="63" column="40" lean-forward="false" selection-start-line="63" selection-start-column="40" selection-end-line="63" selection-end-column="40" />
+            <folding>
+              <marker date="1518991815062" expanded="true" signature="852:1049" ph="..." />
+            </folding>
           </first_editor>
           <second_editor />
         </state>
