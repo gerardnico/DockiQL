@@ -4,17 +4,16 @@
 
 [GraphiQL](https://github.com/graphql/graphiql/) in Docker.
 
-As my backend in Php is, I needed to be able to set the debug option.
-And it does not work with Browser extension such as  [ChromeIql](https://github.com/ermanc/ChromeiQL/) 
-
 
 ## Security Concerns
 
-As you are going to use a browser, you wil hit the CORS problem. Ie the browser by default does not allow you to make a request to another domain if this domain does not allow it.
+As you are going to use a browser, you wil hit the [Cross Origin Resource Sharing (CORS)](https://gerardnico.com/web/cors) problem. 
+Ie the browser by default does not allow you to make a request to another domain if this domain does not allow it.
 
-There is actually three solutions:
-  * put the public directory on your server and don't use the docker image
-  * disable web security when starting your browser
+There is actually four solutions:
+  * use [ChromeIql](https://github.com/ermanc/ChromeiQL/) (for [Php debugging](https://gerardnico.com/lang/php/debug), you can set it to all request and open or close the debug listener in the IDE)
+  * put the [public](./public/) directory on the same web server than your application (and then don't use this image)
+  * disable web security when starting your browser. Example for chrome:
 ```bash
 chromium-browser --disable-web-security --user-data-dir
 ```
